@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding=20px 0px" src="https://github-profile-trophy.vercel.app/?username=erkamuzuncayir" alt="erkamuzuncayir" /></a> </p>
+<p style="padding=20px 0px" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkamuzuncayir" alt="erkamuzuncayir" /></a> </p>
 
 - 🌱 I’m currently learning **React, Redux**
 
