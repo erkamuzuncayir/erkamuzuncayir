@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkamuzuncayir" alt="erkamuzuncayir" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding=20px 0px" src="https://github-profile-trophy.vercel.app/?username=erkamuzuncayir" alt="erkamuzuncayir" /></a> </p>
 
 - 🌱 I’m currently learning **React, Redux**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/erkamuzuncayir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erkamuzuncayir" height="30" width="40" padding="20px 0px"/></a>
+<a href="https://codepen.io/erkamuzuncayir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erkamuzuncayir" height="30" width="40"/></a>
 <a href="https://instagram.com/erkamuzuncayir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erkamuzuncayir" height="30" width="40" /></a>
 <a href="https://medium.com/@erkamuzuncayir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erkamuzuncayir" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/erkamuzuncayir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erkamuzuncayir" height="30" width="40" /></a>
