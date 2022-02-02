@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/erkamuzuncayir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erkamuzuncayir" height="30" width="40" /></a>
+<a href="https://codepen.io/erkamuzuncayir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erkamuzuncayir" height="30" width="40" padding="20px 0px"/></a>
 <a href="https://instagram.com/erkamuzuncayir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erkamuzuncayir" height="30" width="40" /></a>
 <a href="https://medium.com/@erkamuzuncayir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erkamuzuncayir" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/erkamuzuncayir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erkamuzuncayir" height="30" width="40" /></a>
