@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm H. Erkam Uzuncayir</h1>
-<h3 align="center">Front-End Development enthusiast from Istanbul, Turkey.</h3>
+<h3 align="center">C++ Development enthusiast from Istanbul, Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> </p>
 
 <p style="padding: 20px 20px" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkamuzuncayir&margin-w=15&theme=monokai" alt="erkamuzuncayir" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JS**
 
