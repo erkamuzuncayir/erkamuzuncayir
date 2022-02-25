@@ -5,9 +5,9 @@
 
 <p style="padding: 20px 20px" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkamuzuncayir&margin-w=15&theme=monokai" alt="erkamuzuncayir" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C# and Unity**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS**
+- 💬 Ask me about **C#, JS, HTML, CSS, Bootstrap**
 
 - 📫 How to reach me **erkamuzuncayir@gmail.com**
 
