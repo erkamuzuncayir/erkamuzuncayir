@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H. Erkam Uzuncayir</h1>
-<h3 align="center">C++ Development enthusiast from Istanbul, Turkey.</h3>
+<h3 align="center">Game Development enthusiast from Istanbul, Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> </p>
 
