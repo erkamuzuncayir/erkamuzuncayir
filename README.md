@@ -5,21 +5,21 @@
 
 <p style="padding: 20px 20px" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkamuzuncayir&margin-w=15&theme=monokai" alt="erkamuzuncayir" /></a> </p>
 
-- 🌱 I’m currently learning **Unity and C# **
+- 🌱 I’m currently learning **Unity and C#**.
 
-- 👯 I’m looking to collaborate on **Unity**
+- 👯 I’m looking to collaborate on **Unity**.
 
-- 🤝 I’m looking for help with [C# and Unity](https://github.com/erkamuzuncayir/CSharp)
+- 🤝 I’m looking for help with [C# and Unity](https://github.com/erkamuzuncayir/CSharp).
 
-- 👨‍💻 All of my projects are available at [https://github.com/erkamuzuncayir/allMyProjects](https://github.com/erkamuzuncayir/allMyProjects)
+- 👨‍💻 All of my projects are available at [in this repository](https://github.com/erkamuzuncayir/allMyProjects).
 
-- I regularly write articles about law which is my first major, and programming world which is my passionate about [asgarimusterek.wixsite.com/homepage](asgarimusterek.wixsite.com/homepage)
+- I regularly write articles about law which is my first major, and programming world which is my passionate about [in my website](asgarimusterek.wixsite.com/homepage).
 
-- 💬 Ask me about **C#, Unity, JS, HTML, Bootstrap, CSS, Markdown, Git.**
+- 💬 Ask me about **C#, Unity, JS, HTML, Bootstrap, CSS, Markdown, Git.**.
 
-- 📫 How to reach me **erkamuzuncayir@gmail.com**
+- 📫 You can reach me **erkamuzuncayir@gmail.com** or with my [LinkedIn Account](https://www.linkedin.com/in/erkamuzuncayir/).
 
-- 📄 If you want to know about my experiences [CV](https://www.canva.com/design/DAEzYNPQEcQ/bRc9LoOFqH5DTamdDqME6A/view?utm_content=DAEzYNPQEcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 If you want to know about my experiences, you may want to look at my [CV](https://www.canva.com/design/DAEzYNPQEcQ/bRc9LoOFqH5DTamdDqME6A/view?utm_content=DAEzYNPQEcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 - ⚡ Fun fact **I have a bachelor of law at Istanbul University and I'm licensed lawyer.**
 
