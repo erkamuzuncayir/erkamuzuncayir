@@ -5,7 +5,7 @@
 
 <p style="padding: 20px 20px" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkamuzuncayir&margin-w=15&theme=monokai" alt="erkamuzuncayir" /></a> </p>
 
-- 🌱 I’m currently learning **Unity, .NET Core, Deployment**
+- 🌱 I’m currently learning **Unity and C# **
 
 - 👯 I’m looking to collaborate on **Unity**
 
@@ -15,11 +15,11 @@
 
 - I regularly write articles about law which is my first major, and programming world which is my passionate about [asgarimusterek.wixsite.com/homepage](asgarimusterek.wixsite.com/homepage)
 
-- 💬 Ask me about **C#, Unity, JS, HTML, Bootstrap, CSS, Markdown.**
+- 💬 Ask me about **C#, Unity, JS, HTML, Bootstrap, CSS, Markdown, Git.**
 
 - 📫 How to reach me **erkamuzuncayir@gmail.com**
 
-- 📄 If you want to know about my experiences [https://drive.google.com/file/d/1Ga7l4VKeNl62n1wAyy-F_U6pPEBqaGb5/view?usp=sharing](https://drive.google.com/file/d/1Ga7l4VKeNl62n1wAyy-F_U6pPEBqaGb5/view?usp=sharing)
+- 📄 If you want to know about my experiences [CV](https://www.canva.com/design/DAEzYNPQEcQ/bRc9LoOFqH5DTamdDqME6A/view?utm_content=DAEzYNPQEcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I have a bachelor of law at Istanbul University and I'm licensed lawyer.**
 
