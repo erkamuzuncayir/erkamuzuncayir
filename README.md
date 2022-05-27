@@ -1,21 +1,19 @@
 <h1 align="center">Hi traveler👋🏼, I'm H. Erkam Uzunçayır🧝🏼‍♀️</h1>
-<h3 align="center">A game development enthusiast from Istanbul, Turkey.</h3>
+<h3 align="center">A game developer and game designer from Istanbul, Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> </p>
 
 <p style="padding: 20px 20px" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkamuzuncayir&margin-w=15&theme=monokai" alt="erkamuzuncayir" /></a> </p>
 
-- 🌱 I’m currently learning **Unity and C#**.
+- 🌱 I’m currently learning **Unity**.
 
 - 👯 I’m looking to collaborate on **Unity**.
 
-- 🤝 I’m looking for help with [C# and Unity](https://github.com/erkamuzuncayir/CSharp).
-
 - 👨‍💻 All of my projects are available at [in this repository](https://github.com/erkamuzuncayir/allMyProjects).
 
-- I regularly write articles about law which is my first major, and programming world which is my passionate about [in my website](asgarimusterek.wixsite.com/homepage).
-
-- 💬 Ask me about **C#, Unity, JS, HTML, Bootstrap, CSS, Markdown, Git.**.
+<!-- - I regularly write articles about law which is my first major, and programming world which is my passionate about [in my website](asgarimusterek.wixsite.com/homepage).
+ -->
+- 💬 Ask me about **C#, Unity, Markdown, Git.**.
 
 - 📫 You can reach me **erkamuzuncayir@gmail.com** or with my [LinkedIn Account](https://www.linkedin.com/in/erkamuzuncayir/).
 
