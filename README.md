@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [in this repository](https://github.com/erkamuzuncayir/allMyProjects).
 
-- 🎮 Feel free to look at my Unity Play - [WebGL Builds](https://play.unity.com/u/erkamuzuncayir).
+- 🎮 Feel free to look at my [Unity Play](https://play.unity.com/u/erkamuzuncayir) and [itch.io](https://erkamuzuncayir.itch.io/) page that contains my playable projects.
 
 <!-- - I regularly write articles about law which is my first major, and programming world which is my passionate about [in my website](asgarimusterek.wixsite.com/homepage).
  -->
