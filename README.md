@@ -19,7 +19,7 @@
 
 - 📫 You can reach me **erkamuzuncayir@gmail.com** or with my [LinkedIn Account](https://www.linkedin.com/in/erkamuzuncayir/).
 
-- 📄 If you want to know about my experiences, you may want to look at my [CV](https://www.canva.com/design/DAEzYNPQEcQ/bRc9LoOFqH5DTamdDqME6A/view?utm_content=DAEzYNPQEcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+- 📄 If you want to know about my experiences, you may want to look at my [CV](https://drive.google.com/file/d/1pEGTs9wp9gfNxZuVz0XdWdprzlsyEgUV/view?usp=sharing).
 
 - ⚡ Fun fact **I have a bachelor of law at Istanbul University and I'm licensed lawyer.**
 
