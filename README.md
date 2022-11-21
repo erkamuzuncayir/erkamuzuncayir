@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Unity**.
 
-- 👨‍💻 All of my projects are available at [in this repository](https://github.com/erkamuzuncayir/allMyProjects).
+- 👨‍💻 All of my projects are available at in their repository.
 
 - 🎮 Feel free to look at my [Unity Play](https://play.unity.com/u/erkamuzuncayir) and [itch.io](https://erkamuzuncayir.itch.io/) page that contains my playable projects.
 
