@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> </p>
 
-<p style="padding: 20px 20px" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkamuzuncayir&margin-w=15&theme=monokai" alt="erkamuzuncayir" /></a> </p>
-
 - 🌱 I’m currently learning **C++**.
 
 - 👯 I’m looking to collaborate on **Unity**.
@@ -17,7 +15,7 @@
 
 - 📫 You can reach me **erkamuzuncayir@gmail.com** or with my [LinkedIn Account](https://www.linkedin.com/in/erkamuzuncayir/).
 
-- ⚡ Fun fact **I have a bachelor of law at Istanbul University and I'm licensed lawyer.**
+- ⚡ Fun fact **I have a bachelor of law at Istanbul University and I was a licensed lawyer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,8 +32,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkamuzuncayir&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="erkamuzuncayir" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkamuzuncayir&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="erkamuzuncayir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erkamuzuncayir&show_icons=true&locale=en&theme=synthwave" alt="erkamuzuncayir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkamuzuncayir&theme=synthwave" alt="erkamuzuncayir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkamuzuncayir&theme=synthwave" alt="erkamuzuncayir" /></p> --!>
