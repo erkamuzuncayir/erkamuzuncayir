@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> </p>
 
-- 🌱 I’m currently learning **Entity Component System in Unity**.
+- 🌱 I’m currently learning **Unity**.
 
 - 👯 I’m looking to collaborate on **Unity**.
 
