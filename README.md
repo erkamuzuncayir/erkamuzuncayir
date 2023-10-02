@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> </p>
 
-- 🌱 I’m currently learning **Unity**.
-
-- 👯 I’m looking to collaborate on **Unity**.
+- 🌱 I’m currently learning **Unreal** and **C++**.
 
 - 👨‍💻 All of my projects are available at in their repository.
 
 - 🎮 Feel free to look at my [itch.io](https://erkamuzuncayir.itch.io/) page that contains my playable projects.
 
-- 💬 Ask me about **C#, Unity, Markdown, Git.**.
+- 💬 Ask me about **C#, Unity, Markdown, Git**.
 
 - 📫 You can reach me **erkamuzuncayir@gmail.com** or with my [LinkedIn Account](https://www.linkedin.com/in/erkamuzuncayir/).
 
