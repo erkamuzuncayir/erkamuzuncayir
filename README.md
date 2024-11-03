@@ -1,19 +1,21 @@
-<h1 align="center">Hi traveler👋🏼, I'm H. Erkam Uzunçayır🧝🏼‍♀️</h1>
-<h3 align="center">A game developer and game designer from Istanbul, Turkey.</h3>
+<h1 align="center">Hi traveler👋🏼, I'm Erkam Uzunçayır🧝🏼‍♀️</h1>
+<h3 align="center">A game developer and software enthusiast from Istanbul, Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> </p>
 
-- 🌱 I’m currently learning **Unreal** and **C++**.
+<h3 align="left">🛠 Current Journey</h3>
 
-- 👨‍💻 All of my projects are available at in their repository.
+I’m documenting my progress as I dive deeper into **C/C++** and **game/engine development**. You can follow along with my journey [here in my detailed repository](https://github.com/erkamuzuncayir/cpp-game-engine-journey), where I log my learning resources, projects, and milestones.
+
+- 👨‍💻 All of my projects are available in their respective [**repositories**](https://github.com/erkamuzuncayir?tab=repositories).
 
 - 🎮 Feel free to look at my [itch.io](https://erkamuzuncayir.itch.io/) page that contains my playable projects.
 
 - 💬 Ask me about **C#, Unity, Markdown, Git**.
 
-- 📫 You can reach me **erkamuzuncayir@gmail.com** or with my [LinkedIn Account](https://www.linkedin.com/in/erkamuzuncayir/).
+- 📫 You can reach me via [e-mail](mailto:erkamuzuncayir@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/erkamuzuncayir/).
 
-- ⚡ Fun fact **I have a bachelor of law at Istanbul University and I was a licensed lawyer.**
+- ⚡ Fun fact **I have a Bachelor of Law at Istanbul University and I was a licensed lawyer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
