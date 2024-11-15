@@ -5,11 +5,9 @@
 
 <h3 align="left">🛠 Current Journey</h3>
 
-I’m documenting my progress as I dive deeper into **C/C++** and **game/engine development**. You can follow along with my journey [here in my detailed repository](https://github.com/erkamuzuncayir/cpp-game-engine-journey), where I log my learning resources, projects, and milestones.
+I’m documenting my progress as I dive deeper into **C/C++** and **game/engine development**. You can follow along with my journey [here in my detailed repository](https://github.com/erkamuzuncayir/the-journey-to-become-cpp-game-engine-developer), where I log my learning resources, projects, and milestones.
 
 - 👨‍💻 All of my projects are available in their respective [**repositories**](https://github.com/erkamuzuncayir?tab=repositories).
-
-- 🎮 Feel free to look at my [itch.io](https://erkamuzuncayir.itch.io/) page that contains my playable projects.
 
 - 💬 Ask me about **C#, Unity, Markdown, Git**.
 
