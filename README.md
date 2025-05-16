@@ -13,7 +13,7 @@ I’m documenting my progress as I dive deeper into **C/C++** and **game/engine 
 
 - 📫 You can reach me via [e-mail](mailto:erkamuzuncayir@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/erkamuzuncayir/).
 
-- ⚡ Fun fact **I have a Bachelor of Law at Istanbul University and I was a licensed lawyer.**
+- ⚡ Fun fact **I have a Bachelor of Law from Istanbul University, and I was a licensed lawyer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
