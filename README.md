@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> 
 </p>
 
-<br>
-
 <h3 align="left">🛠 Current Journey & Projects</h3>
 
 I am a Software Engineer currently pursuing my **M.Sc. in Computer Science for Games Programming** at the University of Hull. My core focus is on low-level systems programming, graphics architecture, and building robust developer tools. 
