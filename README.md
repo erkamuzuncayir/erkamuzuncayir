@@ -1,7 +1,10 @@
 <h1 align="center">Hi traveler 👋🏼, I'm Erkam Uzunçayır 👨🏻‍💻</h1>
 <h3 align="center">Software Engineer & Game Developer based in Hull, UK.</h3>
-
-<p align="center"> 
+<p align="center">
+  <a href="https://erkamuzuncayir.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-erkamuzuncayir.github.io-0e75b6?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> 
 </p>
 
@@ -20,11 +23,11 @@ I am a Software Engineer currently pursuing my **M.Sc. in Computer Science for G
 
 - 💬 **Ask me about:** C++, C#, Unity, System Architecture, and setting up Linux/Docker home servers.
 
-- 📫 **How to reach me:** Drop me an [e-mail](mailto:erkamuzuncayir@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/erkamuzuncayir/).
+- 📫 **How to reach me:** Check out my **[Portfolio](https://erkamuzuncayir.github.io)**, drop me an [e-mail](mailto:erkamuzuncayir@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/erkamuzuncayir/).
 
 - ⚡ **Fun fact:** I have a Bachelor of Law from Istanbul University and previously worked as a licensed lawyer before pivoting entirely to software engineering!
 
-<h3 align="left"><h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
