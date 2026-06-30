@@ -1,19 +1,28 @@
 <h1 align="center">Hi traveler 👋🏼, I'm Erkam Uzunçayır 👨🏻‍💻</h1>
 <h3 align="center">Software Engineer & Game Developer based in Hull, UK.</h3>
 <p align="center">
-  <a href="https://erkamuzuncayir.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-erkamuzuncayir.github.io-0e75b6?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  <a href="https://erkam.uzuncayir.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-erkam.uzuncayir.dev-0e75b6?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://git.uzuncayir.dev/erkam" target="_blank">
+    <img src="https://img.shields.io/badge/Self--Hosted_Git-git.uzuncayir.dev-f15a24?style=for-the-badge&logo=git&logoColor=white" alt="Git Server" />
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=erkamuzuncayir&label=Profile%20views&color=0e75b6&style=flat" alt="erkamuzuncayir" /> 
 </p>
+
+> [!IMPORTANT]  
+> 🚀 **I've migrated my development hub!**  
+> I now self-host my active development, codebases, and issue tracking on my own **Forgejo** instance. My GitHub repositories are currently maintained as **read-only mirrors**. 
+> 
+> 👉 **[Visit my official Git Profile at git.uzuncayir.dev/erkam](https://git.uzuncayir.dev/erkam)** to see my latest commits, follow my active project boards, or collaborate!
 
 <h3 align="left">🛠 Current Journey & Projects</h3>
 
 I am a Software Engineer currently pursuing my **M.Sc. in Computer Science for Games Programming** at the University of Hull. My core focus is on low-level systems programming, graphics architecture, and building robust developer tools. 
 
 **🔭 Currently working on,**
-- **[Primordial Engine](https://github.com/erkamuzuncayir/primordial-engine):** A custom 3D game engine built entirely from scratch in **C++20**.
+- **[Primordial Engine](https://git.uzuncayir.dev/erkam/primordial-engine):** A custom 3D game engine built entirely from scratch in **C++20**.
   - **Architecture:** Features a robust, custom Entity-Component-System (ECS) designed for cache-efficient data processing and strict object-oriented memory management.
   - **Rendering:** Implements a modular 3D graphics rendering backend utilizing **Vulkan** and **DirectX 11**.
   - **Tooling:** Includes a proprietary WYSIWYG editor environment built with **ImGui (C++)**, allowing for real-time scene inspection, 3D component manipulation, and streamlined developer workflows.
@@ -21,9 +30,9 @@ I am a Software Engineer currently pursuing my **M.Sc. in Computer Science for G
 
 - 🌱 **Currently learning:** Advanced rendering techniques, multithreading optimization, API implementation, and hardware-adjacent performance profiling.
 
-- 💬 **Ask me about:** C++, C#, Unity, System Architecture, and setting up Linux/Docker home servers.
+- 💬 **Ask me about:** C, C++, C#, Unity, ECS, Data-Oriented Design, Performance Aware Programming, System Architecture, and setting up Linux/Docker home servers.
 
-- 📫 **How to reach me:** Check out my **[Portfolio](https://erkamuzuncayir.github.io)**, drop me an [e-mail](mailto:erkamuzuncayir@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/erkamuzuncayir/).
+- 📫 **How to reach me:** Check out my **[website](https://erkam.uzuncayir.dev)**, drop me an [e-mail](mailto:erkamuzuncayir@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/erkamuzuncayir/).
 
 - ⚡ **Fun fact:** I have a Bachelor of Law from Istanbul University and previously worked as a licensed lawyer before pivoting entirely to software engineering!
 
