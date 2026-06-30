@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer & Game Developer based in Hull, UK.</h3>
 <p align="center">
   <a href="https://erkam.uzuncayir.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-erkam.uzuncayir.dev-0e75b6?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-erkam.uzuncayir.dev-0e75b6?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://git.uzuncayir.dev/erkam" target="_blank">
     <img src="https://img.shields.io/badge/Self--Hosted_Git-git.uzuncayir.dev-f15a24?style=for-the-badge&logo=git&logoColor=white" alt="Git Server" />
